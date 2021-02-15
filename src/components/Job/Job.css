@@ -1,0 +1,15 @@
+.job {
+  display: flex;
+  color: white;
+}
+.jobTitle {
+  margin-left: 2vmin;
+}
+.jobDate {
+  margin-left: 2vmin;
+  color: grey;
+}
+.jobDescription {
+  margin-left: 3vmin;
+  color: white;
+}
